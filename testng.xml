@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org">
+<suite name="Bank Account Test Suite">
+    <test name="Bank Account TestNG Tests">
+        <classes>
+            <class name="BankAccountTest"/>
+        </classes>
+    </test>
+</suite>
